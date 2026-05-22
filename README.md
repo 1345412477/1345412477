@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=200&section=header&text=Magicer%E3%80%85&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=200&section=header&text=Magicer丶&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=24&duration=3500&pause=600&color=F4A759&center=true&vCenter=true&width=500&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;AI+%2B+IoT+%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85;Python+%C2%B7+FastAPI+%C2%B7+Vue+%C2%B7+Go" alt="Typing SVG" />
 
