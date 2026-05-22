@@ -1,22 +1,17 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=200&section=header&text=Magicer%E3%80%85&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=200&section=header&text=Magicer%E3%80%85&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=36" width="100%" />
 
-<!-- Typing effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=24&duration=3500&pause=600&color=F4A759&center=true&vCenter=true&width=500&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;AI+%2B+IoT+%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85;Python+%C2%B7+FastAPI+%C2%B7+Vue+%C2%B7+Go" alt="Typing SVG" />
 
 <br>
 
-<p>
-  <code>console.log("Hello, World! 👋");</code>
-</p>
+<code>console.log("Hello, World! 👋");</code>
 
 </div>
 
 <br>
 
-<!-- Two Column: About + Links -->
 <table>
   <tr>
     <td width="55%" valign="top">
@@ -41,7 +36,7 @@
       <br>
 
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a759&icon_color=f4a759&text_color=8b949e&count_private=true" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a759&icon_color=f4a759&text_color=8b949e" width="100%" />
       </p>
 
     </td>
@@ -50,22 +45,19 @@
       <h3 align="center">📌 链接</h3>
 
       <p align="center">
-        <a href="https://github.com/1345412477">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <a href="https://github.com/1345412477"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
 
       <br>
 
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1345412477&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a759&text_color=8b949e&langs_count=6" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1345412477&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=f4a759&text_color=8b949e" width="100%" />
       </p>
 
       <br>
 
       <p align="center" style="color: #8b949e; font-style: italic; border-left: 3px solid #f4a759; padding: 8px 12px; text-align: left; line-height: 1.6;">
-        "Talk is cheap.<br>Show me the code."
-        <br>
+        "Talk is cheap.<br>Show me the code."<br>
         <span style="font-size: 12px; color: #484f58;">— Linus Torvalds</span>
       </p>
 
@@ -75,32 +67,18 @@
 
 <br>
 
-<!-- Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=1345412477&theme=dark&hide_border=true&background=0d1117&fire=f4a759&ring=f4a759&currStreakLabel=f4a759&sideLabels=8b949e&dates=484f58" width="70%" />
+  <img src="https://streak-stats.demolab.com?user=1345412477&theme=dark&hide_border=true&background=0d1117&fire=f4a759&ring=f4a759&currStreakLabel=f4a759&sideLabels=8b949e" width="70%" />
 </p>
 
 <br>
 
-<!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1345412477&bg_color=0d1117&color=f4a759&line=f4a759&point=c9d1d9&area=true&area_color=f4a759&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1345412477&bg_color=0d1117&color=f4a759&line=f4a759&point=c9d1d9&area=true&area_color=f4a759&hide_border=true" width="95%" />
 </p>
 
 <br>
 
-<!-- Contribution Snake -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1345412477/1345412477/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1345412477/1345412477/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/1345412477/1345412477/output/github-contribution-grid-snake.svg" width="95%" />
-  </picture>
-</p>
-
-<br>
-
-<!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=120&section=footer" width="100%" />
   <br>
