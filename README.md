@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=24&duration=3500&pause=600&color=F4A759&center=true&vCenter=true&width=500&lines=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85;AI+%2B+IoT+%E6%8A%80%E6%9C%AF%E7%88%B1%E5%A5%BD%E8%80%85;Python+%C2%B7+FastAPI+%C2%B7+Vue+%C2%B7+Go" alt="Typing SVG" />
 
-<br>
-
-<code>console.log("Hello, World! 👋");</code>
-
 </div>
 
 <br>
@@ -30,9 +26,8 @@
 
 <br>
 
-<p align="center" style="color: #8b949e; font-style: italic; border-left: 3px solid #f4a759; padding: 8px 14px; text-align: left; line-height: 1.6; max-width: 400px; margin: 0 auto;">
-  "Talk is cheap. Show me the code."
-  <br>
+<p align="center" style="color: #8b949e; font-style: italic; border-left: 3px solid #f4a759; padding: 8px 16px; text-align: left; line-height: 1.6; max-width: 380px; margin: 0 auto;">
+  "Talk is cheap. Show me the code."<br>
   <span style="font-size: 12px; color: #484f58;">— Linus Torvalds</span>
 </p>
 
@@ -41,7 +36,6 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=120&section=footer" width="100%" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=1345412477&style=flat-square&color=f4a759" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,3,8&height=100&section=footer" width="100%" />
+  <sub><img src="https://komarev.com/ghpvc/?username=1345412477&style=flat-square&color=f4a759" /></sub>
 </div>
