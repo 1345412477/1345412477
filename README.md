@@ -24,4 +24,4 @@
 
 ---
 
-<p align="center">[github.com/1345412477](https://github.com/1345412477) &middot; &copy; 2026 Magicer丶</p>
+<p align="center"><a href="https://github.com/1345412477">github.com/1345412477</a> &middot; &copy; 2026 Magicer丶</p>
