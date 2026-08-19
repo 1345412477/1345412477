@@ -33,10 +33,10 @@
 <td valign="top" width="48%">
 #### 💻 Featured Projects
 > 🏅 [View All Repos →](https://github.com/1345412477?tab=repositories)
-- 🦌 **[HermesOS](https://github.com/1345412477/HermesOS)** — AI Agent · Voice Control · IoT Central System
-- ✨ **[YOLOv8hat-helmet](https://github.com/1345412477/YOLOv8hat-helmet)** — YOLOv8-based Safety Helmet Detection
-- 🏆 **[daily_stock_analysis](https://github.com/1345412477/daily_stock_analysis)** — LLM-powered Stock Analysis System
-- 🌟 **[weekly-scorer-v2](https://github.com/1345412477/weekly-scorer-v2)** — AI-driven Weekly Report Scoring
+- 🦌 **Maintainer of [HermesOS](https://github.com/1345412477/HermesOS)**
+- ✨ **YOLOv8 Project — [YOLOv8hat-helmet](https://github.com/1345412477/YOLOv8hat-helmet)**
+- 🏆 **LLM Application** — [daily_stock_analysis](https://github.com/1345412477/daily_stock_analysis)
+- 🌟 **AI Tools** — [weekly-scorer-v2](https://github.com/1345412477/weekly-scorer-v2)
 </td>
 </tr>
 </table>
