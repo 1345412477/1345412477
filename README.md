@@ -5,7 +5,7 @@
     <strong>I'm currently Focus on AI Vision Application Products & B-end Products.</strong>
   </p>
   <p>
-    <code>🐼 Born in Nanchong, China.</code>
+    <code>🐼 Born in Shunqing, Nanchong, Sichuan.</code>
     <code>📍 Now Base in Chengdu.</code>
   </p>
 <p>
@@ -82,11 +82,11 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-AI_Products-0078D7?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-B_end_Products-4CAF50?style=for-the-badge&logo=producthunt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Computer_Vision-FF6F61?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-AI_Products-0078D7?style=for-the-badge&logo=openai&logoColor=white" alt="AI Products"/>
+  <img src="https://img.shields.io/badge/-B_end_Products-4CAF50?style=for-the-badge&logo=producthunt&logoColor=white" alt="B-end Products"/>
+  <img src="https://img.shields.io/badge/-Computer_Vision-FF6F61?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
 
 ---
@@ -134,8 +134,13 @@ AI 产品落地
 
 ## 05 · GitHub 数据
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true&hide_border=true&theme=default" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1345412477&layout=compact&hide_border=true&theme=default" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1345412477&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages"/>
 </div>
 
 ---
