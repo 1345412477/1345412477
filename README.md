@@ -5,7 +5,7 @@
     <strong>I'm currently Focus on AI Vision Application Products & B-end Products.</strong>
   </p>
   <p>
-    <code>🐼 Born in Shunqing, Nanchong, Sichuan.</code>
+    <code>🐼 Born in Nanchong, China.</code>
     <code>📍 Now Base in Chengdu.</code>
   </p>
 <p>
