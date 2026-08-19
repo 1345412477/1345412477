@@ -134,16 +134,24 @@ AI 产品落地
 
 ## 05 · GitHub 数据
 <p align="center">
-  <img src="https://img.shields.io/badge/Repositories-8-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  <img src="https://img.shields.io/badge/Followers-1-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Following-1-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+  <a href="https://github.com/1345412477?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-8-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/1345412477?tab=followers">
+    <img src="https://img.shields.io/badge/Followers-1-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/1345412477?tab=following">
+    <img src="https://img.shields.io/badge/Following-1-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+  </a>
   <img src="https://img.shields.io/badge/Joined-2023-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Joined"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/1345412477?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true" alt="GitHub Stats"/>
-  </a>
+  <img src="https://img.shields.io/badge/AI_Vision-0078D7?style=for-the-badge" alt="AI Vision"/>
+  <img src="https://img.shields.io/badge/B_end_Products-4CAF50?style=for-the-badge" alt="B-end Products"/>
+  <img src="https://img.shields.io/badge/AI_Agent-FF6F61?style=for-the-badge" alt="AI Agent"/>
+  <img src="https://img.shields.io/badge/LLM-9C27B0?style=for-the-badge" alt="LLM"/>
 </p>
 
 ---
