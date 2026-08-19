@@ -33,18 +33,28 @@
 <td valign="top" width="48%">
 #### 💻 Featured Projects
 > 🏅 [View All Repos →](https://github.com/1345412477?tab=repositories)
-- 🦌 **Maintainer of [HermesOS](https://github.com/1345412477/HermesOS)**
-- ✨ **YOLOv8 Project — [YOLOv8hat-helmet](https://github.com/1345412477/YOLOv8hat-helmet)**
-- 🏆 **LLM Application** — [daily_stock_analysis](https://github.com/1345412477/daily_stock_analysis)
-- 🌟 **AI Tools** — [weekly-scorer-v2](https://github.com/1345412477/weekly-scorer-v2)
+- 🦌 **[HermesOS](https://github.com/1345412477/HermesOS)** — AI Agent · Voice Control · IoT
+- ✨ **[YOLOv8hat-helmet](https://github.com/1345412477/YOLOv8hat-helmet)** — Safety Helmet Detection
+- 🏆 **[daily_stock_analysis](https://github.com/1345412477/daily_stock_analysis)** — LLM Stock Analysis
+- 🌟 **[weekly-scorer-v2](https://github.com/1345412477/weekly-scorer-v2)** — AI Weekly Scoring
 </td>
 </tr>
 </table>
 
 ---
 
+## MAGiCER
+### AI 产品经理 · AI 应用探索者
+**AI Products × Computer Vision × B-end Products**
+
+<div align="center">
+[个人项目] · [产品探索] · [技术实践]
+</div>
+
+---
+
 ## 01 · 关于我
-我是一名专注于 **AI 产品经理**，聚焦 AI 视觉应用与 B 端产品。
+我是一名 **AI 产品经理**，聚焦 AI 视觉应用与 B 端产品。
 主要关注大语言模型、AI Agent、计算机视觉在产品中的落地应用，希望将前沿 AI 技术与真实业务场景结合，打造真正能够解决问题的 AI 产品。
 > **技术不是终点，解决问题才是。**
 
