@@ -11,44 +11,52 @@
 <p>
 </p>
 </div>
+
 <table>
 <tr>
 <td valign="top" width="50%">
-  
-#### 💼 Product Direction
-  
-#### 🌱 Skill Stack
-> 📄 [View Resume →](./resume.md)
+
+<h4>💼 Product Direction</h4>
+
+<h4>🌱 Skill Stack</h4>
+<blockquote>
+📄 <a href="./resume.md">View Resume →</a>
+</blockquote>
 <p>
-<strong>AI Products</strong> -- <code>AI Vision · B-end Products · Product Design</code>
-
-<strong>AI Technologies</strong> -- <code>LLM · AI Agent · RAG · Multimodal</code>
-
-<strong>Computer Vision</strong> -- <code>YOLO · Object Detection · Visual Analysis</code>
-
+<strong>AI Products</strong> -- <code>AI Vision · B-end Products · Product Design</code><br><br>
+<strong>AI Technologies</strong> -- <code>LLM · AI Agent · RAG · Multimodal</code><br><br>
+<strong>Computer Vision</strong> -- <code>YOLO · Object Detection · Visual Analysis</code><br><br>
 <strong>Tools</strong> -- <code>Figma · Axure · Notion · Data Analysis</code>
-
 </p>
+
 </td>
 <td valign="top" width="48%">
-#### 💻 Featured Projects
-> 🏅 [View All Repos →](https://github.com/1345412477?tab=repositories)
-- 🦌 **[HermesOS](https://github.com/1345412477/HermesOS)** — AI Agent · Voice Control · IoT
-- ✨ **[YOLOv8hat-helmet](https://github.com/1345412477/YOLOv8hat-helmet)** — Safety Helmet Detection
-- 🏆 **[daily_stock_analysis](https://github.com/1345412477/daily_stock_analysis)** — LLM Stock Analysis
-- 🌟 **[weekly-scorer-v2](https://github.com/1345412477/weekly-scorer-v2)** — AI Weekly Scoring
+
+<h4>💻 Featured Projects</h4>
+<blockquote>
+🏅 <a href="https://github.com/1345412477?tab=repositories">View All Repos →</a>
+</blockquote>
+<ul>
+<li>🦌 <strong><a href="https://github.com/1345412477/HermesOS">HermesOS</a></strong> — AI Agent · Voice Control · IoT</li>
+<li>✨ <strong><a href="https://github.com/1345412477/YOLOv8hat-helmet">YOLOv8hat-helmet</a></strong> — Safety Helmet Detection</li>
+<li>🏆 <strong><a href="https://github.com/1345412477/daily_stock_analysis">daily_stock_analysis</a></strong> — LLM Stock Analysis</li>
+<li>🌟 <strong><a href="https://github.com/1345412477/weekly-scorer-v2">weekly-scorer-v2</a></strong> — AI Weekly Scoring</li>
+</ul>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## MAGiCER
+<div align="center">
+
+# MAGiCER
 ### AI 产品经理 · AI 应用探索者
 **AI Products × Computer Vision × B-end Products**
 
-<div align="center">
 [个人项目] · [产品探索] · [技术实践]
+
 </div>
 
 ---
@@ -56,6 +64,7 @@
 ## 01 · 关于我
 我是一名 **AI 产品经理**，聚焦 AI 视觉应用与 B 端产品。
 主要关注大语言模型、AI Agent、计算机视觉在产品中的落地应用，希望将前沿 AI 技术与真实业务场景结合，打造真正能够解决问题的 AI 产品。
+
 > **技术不是终点，解决问题才是。**
 
 ---
