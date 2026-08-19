@@ -133,15 +133,18 @@ AI 产品落地
 ---
 
 ## 05 · GitHub 数据
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true&hide_border=true&theme=default&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-8-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  <img src="https://img.shields.io/badge/Followers-1-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Following-1-FF6F61?style=for-the-badge&logo=github&logoColor=white" alt="Following"/>
+  <img src="https://img.shields.io/badge/Joined-2023-9C27B0?style=for-the-badge&logo=github&logoColor=white" alt="Joined"/>
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1345412477&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top Languages"/>
-</div>
+<p align="center">
+  <a href="https://github.com/1345412477?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=1345412477&show_icons=true" alt="GitHub Stats"/>
+  </a>
+</p>
 
 ---
 
