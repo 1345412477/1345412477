@@ -23,9 +23,9 @@
 📄 <a href="./resume.md">View Resume →</a>
 </blockquote>
 <p>
-<strong>AI Products</strong> -- <code>AI Vision · B-end Products · Product Design</code><br><br>
-<strong>AI Technologies</strong> -- <code>LLM · AI Agent · RAG · Multimodal</code><br><br>
-<strong>Computer Vision</strong> -- <code>YOLO · Object Detection · Visual Analysis</code><br><br>
+<strong>AI Products</strong> -- <code>AI Vision · B-end Products · Product Design</code>
+<strong>AI Technologies</strong> -- <code>LLM · AI Agent · RAG · Multimodal</code>
+<strong>Computer Vision</strong> -- <code>YOLO · Object Detection · Visual Analysis</code>
 <strong>Tools</strong> -- <code>Figma · Axure · Notion · Data Analysis</code>
 </p>
 
