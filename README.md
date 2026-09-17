@@ -16,17 +16,31 @@
 <tr>
 <td valign="top" width="50%">
 
-<h4>💼 Product Direction</h4>
-
-<h4>🌱 Skill Stack</h4>
+<h4>💼 Work Experience</h4>
 <blockquote>
-📄 <a href="./resume.md">View Resume →</a>
+📄 <a href="./resume.md">View Full Resume →</a>
 </blockquote>
+
 <p>
-<strong>AI Products</strong> -- <code>Lightweight AI Tools · B-end Products · Product Design</code><br/>
-<strong>AI Technologies</strong> -- <code>LLM · AI Agent · RAG · Multimodal</code><br/>
-<strong>Computer Vision</strong> -- <code>YOLO · Object Detection · Visual Analysis</code><br/>
-<strong>Tools</strong> -- <code>Figma · Axure · Notion · Data Analysis</code><br/>
+<strong>成都智友辰科技</strong> · AI 产品经理（已转正）<br/>
+<em>2026.02 - 至今</em><br/>
+· 主导 AI 智能周报评分产品全流程上线，覆盖 3 个部门、20+ 员工<br/>
+· 设计 4 维度 AI 评分 + 规则兜底，每周节省约 1 天人工评审时间<br/>
+· 完成 11 个前端页面、16 个后端接口的需求拆解与验收
+</p>
+
+<p>
+<strong>北京致远互联</strong> · 实施顾问（实习）<br/>
+<em>2025.09 - 2025.12</em><br/>
+· 独立完成多家大型企业协同管理系统部署交付与定制化开发<br/>
+· 沉淀标准化问题处理流程，积累 B 端客户需求沟通经验
+</p>
+
+<p>
+<strong>上海泓翼软件</strong> · AI 平台开发工程师（实习）<br/>
+<em>2025.05 - 2025.07</em><br/>
+· 参与企业级 AI 智能平台接口开发与内容管理系统建设<br/>
+· 负责功能实现、联调测试与设计文档编写
 </p>
 
 </td>
